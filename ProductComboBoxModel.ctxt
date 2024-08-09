@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ProductComboBoxModel
+comment1.params=items
+comment1.target=ProductComboBoxModel(Product[])
+comment2.params=
+comment2.target=java.lang.Object\ getSelectedItem()
+numComments=3
